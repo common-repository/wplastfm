@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lastfm_rt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-23 01:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: loeffler <loeffler@kosmonauten.cc>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wplastfm.php:51
+#: wplastfm.php:387
+msgid "The plugin requires PHP 5!"
+msgstr "Das Plugin benötigt PHP 5!"
+
+#: wplastfm.php:103
+msgid "Listening now"
+msgstr "Hört gerade"
+
+#: wplastfm.php:110
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: wplastfm.php:113
+#: wplastfm.php:327
+msgid "www.last.fm"
+msgstr "www.lastfm.de"
+
+#: wplastfm.php:165
+#: wplastfm.php:169
+msgid "No data available."
+msgstr "Es sind derzeit keine Daten verfügbar."
+
+#: wplastfm.php:298
+msgid "Displays recent tracks from your last.fm account."
+msgstr "Zeigt die zuletzt gespielten Titel deines Last.fm Profils an."
+
+#: wplastfm.php:392
+msgid "Title"
+msgstr ""
+
+#: wplastfm.php:395
+msgid "Link to profile"
+msgstr "Link zum Profil"
+
+#: wplastfm.php:398
+msgid "Username"
+msgstr ""
+
+#: wplastfm.php:402
+msgid "Number of tracks"
+msgstr "Angezeigte Titel"
+
+#: wplastfm.php:404
+msgid "(maximal 10)"
+msgstr "(Maximal 10)"
+
+#: wplastfm.php:407
+msgid "Template"
+msgstr ""
+
+#: wplastfm.php:409
+msgid "Tags: %track% (= %artist% - %title%), %artist%, %title%, %album%, %time%, %img%"
+msgstr "Tags: %track% (= %artist% - %title%), %artist%, %title%, %album%, %time%, %img%"
+
+#: wplastfm.php:411
+msgid "Maximum length"
+msgstr "Textlänge beschränken"
+
+#: wplastfm.php:413
+msgid "Track:"
+msgstr "Track:"
+
+#: wplastfm.php:414
+msgid "Album:"
+msgstr "Album:"
+
+#: wplastfm.php:416
+msgid "Artist:"
+msgstr "Künstler:"
+
+#: wplastfm.php:417
+msgid "Title:"
+msgstr "Titel:"
+
+#: wplastfm.php:418
+msgid "0 = no truncation"
+msgstr "0 = keine Trennung"
+
+#: wplastfm.php:421
+msgid "Image size:"
+msgstr "Bildgröße:"
+
+#: wplastfm.php:423
+msgid "Small (34x34)"
+msgstr "Klein (34x34)"
+
+#: wplastfm.php:424
+msgid "Medium (64x64)"
+msgstr "Mittel (64x64)"
+
+#: wplastfm.php:425
+msgid "Large (126x126)"
+msgstr "Groß (126x126)"
+
+#: wplastfm.php:428
+msgid "Image height:"
+msgstr "Bildhöhe:"
+
+#: wplastfm.php:428
+msgid "pixel"
+msgstr "Pixel"
+
+#: wplastfm.php:431
+msgid "Time format (over 24h):"
+msgstr "Zeitformat (mehr als 24h)"
+
+#: wplastfm.php:436
+msgid "Use self-defined"
+msgstr "Selbst definiertes"
+
